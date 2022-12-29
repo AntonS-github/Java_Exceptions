@@ -3,7 +3,6 @@ import java.util.logging.Logger;
 import java.lang.Exception;
 
 
-
 public class Exceptions_HW1 {
     public static void main(String[] args) {
         // Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
